@@ -1,0 +1,6 @@
+PUBLIC_KEY_STR = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWuY4Gff8FO3BAKetyvNgGrdZM9CMNoe45SzHMXxAPWw6E2idaEjqe5uJFjVx55JW+5LUSGO1H5MdTcgGEfh62ink/cNjRGJpR25iVDImJlLi2izNs9zrQukncnpj6NGjZu/2z7XXfJb4XBwlrmR823hpCumSD1WiMl1FMfbVorQIDAQAB"
+DOMAIN = "https://www.91160.com"
+HOST = "www.91160.com"
+LOGIN_URL = "https://user.91160.com/login.html"
+CHECK_USER_URL = "https://user.91160.com/checkUser.html"
+CAPTCHA_URL = "https://user.91160.com/Captcha.png"
