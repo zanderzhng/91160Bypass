@@ -1,0 +1,15 @@
+[project]
+name = "91160Bypass"
+version = "0.1.0"
+description = "91160 booking tool"
+requires-python = ">=3.12"
+dependencies = [
+    "nicegui",
+    "ddddocr",
+    "requests",
+    "aiohttp",
+    "pycryptodome",
+    "beautifulsoup4",
+    "apprise",
+    "apscheduler",
+]
